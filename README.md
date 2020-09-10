@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This is a react app that displays quotes. Clicking on the new quote button, you can generate a new random quote. 
+
 ## Available Scripts
 
 In the project directory, you can run:
